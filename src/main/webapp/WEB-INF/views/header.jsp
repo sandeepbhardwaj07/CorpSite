@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Hyderabad</a>
+                                            <a href="#">Santa Clara</a>
                                         </li>
                                     </ul>
                                 </li>
